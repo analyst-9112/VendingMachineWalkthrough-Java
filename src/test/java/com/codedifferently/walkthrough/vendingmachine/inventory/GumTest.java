@@ -1,3 +1,4 @@
+//This is the package
 package com.codedifferently.walkthrough.vendingmachine.inventory;
 
 import org.junit.Assert;
